@@ -1,0 +1,10 @@
+@import url("components/container.css")
+
+body{
+	font-family:"Lucida":;
+	font-size:18px;
+}
+h1,h2,h3 {
+	font-family:"Helvetica";
+font-weight=bold
+}
